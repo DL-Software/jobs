@@ -12,7 +12,7 @@ All jobs are on site in New York City.
 
 ### Applying 
 
-To apply, complete one of the challenges below and email it to [carter@dl.software](mailto:carter@dl.software)
+To apply, complete one of the challenges below and email it to [carter+jobs@dl.software](mailto:carter+jobs@dl.software)
 
 - [Finance](./finance.md) Black Scholes Calculation
 - [UI](./ui.md) Quote Monitor UI
